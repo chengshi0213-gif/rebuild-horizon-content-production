@@ -1,0 +1,6 @@
+interface:
+  display_name: "重建地平线-内容生产"
+  short_description: "按当前问题推进影视与视频创作，衔接世界取材、人物画风、对白计时和制作交付"
+  default_prompt: "使用 $rebuild-horizon-content-production 继续当前内容项目，从已有采用稿定位本次问题，完成必要修改、验证与交接。"
+policy:
+  allow_implicit_invocation: true
